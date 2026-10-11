@@ -3,7 +3,7 @@
 Messagerie interne et diffusion d'alertes pour un établissement d'enseignement.
 
 **En production : [alerte.yannickremy.fr](https://alerte.yannickremy.fr)**
-Client Angular : [alert-mns-front](https://github.com/Yann-rem/alert-mns-front)
+Client Angular : [alerte-front](https://github.com/Yann-rem/alerte-front)
 
 Projet conçu et développé seul, de février à août 2026, dans le cadre du titre
 professionnel Concepteur Développeur d'Applications.
